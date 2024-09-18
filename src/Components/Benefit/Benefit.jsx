@@ -6,6 +6,7 @@ import benefit_3 from "../../assets/benefit-3.png"
 import program_icon_1 from "../../assets/program-icon-1.png"
 import program_icon_2 from "../../assets/program-icon-2.png"
 import program_icon_3 from "../../assets/program-icon-3.png"
+import white_arrow from "../../assets/white-arrow.png"
 
 const Benefit = () => {
   return (
@@ -31,7 +32,7 @@ const Benefit = () => {
                     <p>Community Engagement</p>
                 </div>
             </div>
-        </div>
+    </div>
   )
 }
 
